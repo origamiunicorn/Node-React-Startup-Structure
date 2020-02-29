@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Note about PROXY in CLIENT PACKAGE.JSON
+
+When this is running in dev mode, any requests made which aren't appropriate, try sending them to THIS HOST INSTEAD with the same past. during dev this is a way to TEST. by setting up this proxy you avoid the CORS errors.
+
 ## Available Scripts
 
 In the project directory, you can run:

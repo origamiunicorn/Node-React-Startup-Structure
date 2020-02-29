@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The client for the Node React Startup Structure - created with create-react-app",
   "private": true,
-  "proxy": "http://localhost:3001",
+  "proxy": "http://localhost:3001", 
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
